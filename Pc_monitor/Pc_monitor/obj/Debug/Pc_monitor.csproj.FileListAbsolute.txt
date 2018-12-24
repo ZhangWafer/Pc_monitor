@@ -1,0 +1,15 @@
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\Pc_monitor.exe
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\Pc_monitor.pdb
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.Form1.resources
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.Properties.Resources.resources
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.csproj.GenerateResource.Cache
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.exe
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.pdb
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\Pc_monitor.exe.config
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\SqlServerTypes\x64\SqlServerSpatial130.dll
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\SqlServerTypes\x86\SqlServerSpatial130.dll
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.csprojResolveAssemblyReference.cache
+E:\GitHub\Pc_monitor\Pc_monitor\Pc_monitor\obj\Debug\Pc_monitor.login.resources
